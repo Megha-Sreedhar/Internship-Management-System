@@ -21,11 +21,11 @@ How It Works:
 - Admin users can log in to view and manage applications.
   
 Installation & Setup:
-Clone the repository
+- Clone the repository
 git clone https://github.com//internship-management-system.git
 
-Navigate to backend
+- Navigate to backend
 cd backend npm install npm run dev
 
-Navigate to frontend
+- Navigate to frontend
 cd ../frontend npm install npm start
