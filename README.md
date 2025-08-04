@@ -10,17 +10,17 @@ Features:
 - Paperless Workflow to reduce manual processing.
 
 Tech Stack:
-Frontend: HTML, CSS, JavaScript, React.js
-Backend: Node.js, Express.js
-Database: MongoDB
-Architecture: MERN Stack
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Architecture: MERN Stack
 
 How It Works:
-Applicants fill in the online registration form.
-Data is stored securely in MongoDB.
-Admin users can log in to view and manage applications.
+- Applicants fill in the online registration form.
+- Data is stored securely in MongoDB.
+- Admin users can log in to view and manage applications.
+  
 Installation & Setup:
-
 Clone the repository
 git clone https://github.com//internship-management-system.git
 
