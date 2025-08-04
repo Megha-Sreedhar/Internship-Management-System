@@ -3,11 +3,11 @@
 A MERN stack web application to streamline the intern application process, making it easier for organizations to collect, review, and manage applicant data in one place.
 
 Features:
-Online Registration Form for interns/volunteers.
-Admin Dashboard to view, search, and manage applicants.
-Real-time Data Storage with MongoDB.
-Responsive Design for desktop and mobile use.
-Paperless Workflow to reduce manual processing.
+- Online Registration Form for interns/volunteers.
+- Admin Dashboard to view, search, and manage applicants.
+- Real-time Data Storage with MongoDB.
+- Responsive Design for desktop and mobile use.
+- Paperless Workflow to reduce manual processing.
 
 Tech Stack:
 Frontend: HTML, CSS, JavaScript, React.js
